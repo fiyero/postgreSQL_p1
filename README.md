@@ -42,3 +42,9 @@ import pandas as pd
 1. run the create_tables.py to build the database sparkifydb and create tables
 2. run the etl.py to connect to the databse and for the ETL process
 3. test some of the result from the test jupyter notebook
+
+-------------------------------------------------------------------------------------------------------------------------------------
+### More about me
+[[:pencil:My Medium]](https://medium.com/@patrickhk)<br/>
+[[:house_with_garden:My Website]](https://www.fiyeroleung.com/)<br/>
+[[:space_invader:	My Github]](https://github.com/fiyero)<br/>
