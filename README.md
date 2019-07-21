@@ -38,4 +38,7 @@ import psycopg2
 import pandas as pd
 ```
 
-
+## Implementation steps
+1. run the create_tables.py to build the database sparkifydb and create tables
+2. run the etl.py to connect to the databse and for the ETL process
+3. test some of the result from the test jupyter notebook
